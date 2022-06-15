@@ -50,10 +50,15 @@ p {
   #nav-pc>a:hover {
     color: #0d0d0d;
     text-decoration: underline;
+    color: #2710d5;
   }
 
   #nav-pc>a:active {
     color: #0d0d0d;
+  }
+
+  #nav-sp, #menu-sp {
+    display: none;
   }
 
   /* メインビジュアル*/
